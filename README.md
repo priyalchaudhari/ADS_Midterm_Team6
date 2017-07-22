@@ -29,3 +29,14 @@
   - Execute docker ps -l (to get the ID of last run container)
   - Execute docker commit 'ID received from above code' team6midterm_part2
 - Execute docker run -p 8888:8888 team6midterm_part2 /bin/bash -c 'jupyter notebook --no-browser --ip=* --allow-root'
+
+## Fiile contains:
+- part 1 
+- DataIngestion_Part1.py this file is for data injestion 
+- EDA_Part1.ipynb is for EDA
+
+- PART 2
+- Prediction_algos is for algo prediction
+- Classification_2 is for classification. 
+
+- In python notebook need to run each cell sequentially . also enter the year and quarter for prediction 
